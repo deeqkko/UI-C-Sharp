@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace ExpenceIt
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for ExpenceReportPage.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class ExpenceReportPage : Page
     {
-        public MainWindow()
+        public ExpenceReportPage()
         {
             InitializeComponent();
         }
